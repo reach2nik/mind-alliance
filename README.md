@@ -1,0 +1,2 @@
+# mind-alliance
+Project Proposal
